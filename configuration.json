@@ -1,10 +1,10 @@
 {
-    "prefix": "-",
-    "mraugu": "OWNER_ID",
+    "prefix": "+",
+    "mraugu": "358661627459141642",
     "token": "BOT_TOKEN",
-    "dbURL": "MONGODB_URL",
-    "dblToken": "DISCORD_BOT_LIST_TOKEN",
-    "upvoteMessageChannel": "CHANNEL_ID",
-    "readyMessageChannel": "CHANNEL_ID",
-    "commandMessageChannel": "CHANNEL_ID"
+    "dbURL": " ",
+    "dblToken": " ",
+    "upvoteMessageChannel": "644913040755785767",
+    "readyMessageChannel": "644913040755785767",
+    "commandMessageChannel": "644913040755785767"
 }
