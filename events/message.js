@@ -10,10 +10,6 @@ const mongoose = require("mongoose");
 let coinCooldown = new Set();
 let xpCooldown = new Set();
 
-const dbUrl = require("../configuration.json").dbURL;
-mongoose.connect(dbUrl, {
-    useNewUrlParser: true
-});
 
 const Module = require("../models/modules.js");
 const Error = require("../models/error.js");
